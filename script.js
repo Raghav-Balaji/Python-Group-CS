@@ -10,4 +10,6 @@ signInButton.addEventListener('click', () => {
 	container.classList.remove("right-panel-active");
 });
 
+
+
 // From here, i will add the google api manipulation code and try not to mess with it much as it is quite delicate + complex
