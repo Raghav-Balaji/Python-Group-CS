@@ -102,6 +102,7 @@ input {
 	padding: 1.2vh 1.5px;
 	margin: 8px 0;
 	width: 100%;
+	text-align: justify;
 }
 
 .container {
@@ -120,7 +121,7 @@ input {
 	position: absolute;
 	top: 0;
 	height: 50vh;
-	width: 30vw;
+	width: 27vw;
 	transition: all 0.6s ease-in-out;
 }
 
@@ -147,7 +148,7 @@ input {
 	transform: translateX(100%);
 	opacity: 1;
 	z-index: 5;
-	animation: show 0.6s;
+	animation: show 0.3s;
 }
 
 .overlay-container {
@@ -175,7 +176,7 @@ input {
 	color: #FFFFFF;
 	position: relative;
 	left: -30vw;
-	height: 50vh;
+	height: 100vh;
 	width: 57vw;
   	transform: translateX(0);
 	transition: transform 0.6s ease-in-out;
@@ -191,11 +192,11 @@ input {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	padding: 0 40px;
+	padding: 0 30px;
 	text-align: center;
 	top: 0;
-	height: 50vh;
-	width: 25vw;
+	height: 61vh;
+	width: 24vw;
 	transform: translateX(0);
 	transition: transform 0.6s ease-in-out;
 }
