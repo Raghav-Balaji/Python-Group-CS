@@ -7,7 +7,7 @@ users = {}
 bookings = []
 
 # Real-time location suggestions (you may need to implement this)
-locations = ['Location1', 'Location2', 'Location3']
+locations = ['Jayanagar', 'JP Nagar', 'Banashankari','Vijayanagar']
 
 @app.route('/')
 def login():
