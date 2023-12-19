@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #000000;
     margin: 0;
     padding: 0;
     display: flex;
@@ -8,7 +8,7 @@ body {
     justify-content: center;
     height: 100vh;
 }
-
+/*
 .container {
     text-align: center;
     background-color: #fff;
@@ -33,3 +33,4 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
+*/
